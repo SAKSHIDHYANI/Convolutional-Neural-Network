@@ -1,3 +1,3 @@
 # Convolutional-Neural-Network
 
-Third Course Of Deep Learning Specialization (Coursera)
+Course Of Deep Learning Specialization (Coursera)
